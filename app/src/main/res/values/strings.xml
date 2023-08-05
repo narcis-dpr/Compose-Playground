@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hi">Hi</string>
+    <string name="by">By</string>
+    <string name="hello">hello</string>
+    <string name="there">there</string>
+</resources>
